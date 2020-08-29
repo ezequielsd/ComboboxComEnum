@@ -34,7 +34,7 @@ O código do projeto é liberado e aberto para os desenvolvedores aprenderem a c
 
 Para visualizar a telas, acesse o link da postagem referente a este exemplo:
 
-[Post no Blog](https://ezequieldaniel.wordpress.com/2020/08/29/utilizando-um-en…r-em-um-combobox/)  
+[Post no Blog](https://ezequieldaniel.wordpress.com/2020/08/29/utilizando-um-enumerador-em-um-combobox/)  
 
 
 # Pacotes de terceiro
